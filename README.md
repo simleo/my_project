@@ -1,2 +1,2 @@
 # my_project
-Lorem Ipsum
+Lorem ipsum
